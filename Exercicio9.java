@@ -1,4 +1,11 @@
 package Aula03;
+/*Exercício9
+Escreva um programa que:
+- Receba um número entre 1 a 12;
+- Mostre o mês na tela;
+Ex: 12 – Dezembro
+Se o valor não estiver entre 1 e 12 deve mostrar uma
+mensagem de erro;*/
 
 public class Exercicio9 {
     public static void main(String[] args) {
